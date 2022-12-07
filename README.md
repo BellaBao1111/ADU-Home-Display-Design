@@ -1,7 +1,6 @@
 # ADU-Home-Display-Design
-##ENG 100D Fall 2022
-##Project Summary
-Executive Summary
+## ENG 100D Fall 2022
+## Project Summary
 
 Our partner organization is Triton Solar Decathlon (TSD) which is a group of undergraduate UC San Diego students involved in developing ADUs for sustainable and affordable housing amidst the California housing crisis. They are currently working on their project to be submitted to the Orange County Sustainability Decathlon Build Challenge in 2023 and are in partnership with the Greater Victory Church in Logan Heights as a community partner. 
 
